@@ -1,5 +1,5 @@
-# nft-marketplace-part-1
-A [tutorial](https://dev.to/kels_orien/building-a-nft-market-place-with-near-protocol-and-reactjs-1bpi-temp-slug-8479008?preview=3d2f12f601ff1a901cc45bafa9ca1649cdab8462fd413f383af74216df80c6c5c405cff9d102e5bfa272617298fb75f7a039b2d66a67fa347ec9d28e) of an NFT Market Place built using Near Protocol and React.js Part 2.
+# nft-marketplace-part-2
+A [tutorial](https://dev.to/kels_orien/building-a-full-stack-nft-market-place-with-near-protocol-and-reactjs-part-2-5136) of an NFT Market Place built using Near Protocol and React.js Part 2.
 
 #### Preview
 ![alt-text](https://res.cloudinary.com/dofiasjpi/image/upload/v1653483048/near-tutorial-nfts/nft-marketplace-2.png)
