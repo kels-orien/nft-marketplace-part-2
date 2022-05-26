@@ -49,7 +49,7 @@ near create-account  market_contract.youraccountname.testnet --masterAccount you
 
 ##### Deploy the contract
 ```
-near deploy market_contract.kelsacc.testnet --wasmFile res/market_contract.wasm
+near deploy market_contract.youraccountname.testnet --wasmFile res/market_contract.wasm
 
 ```
 
